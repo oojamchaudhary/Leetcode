@@ -4,4 +4,4 @@
 # Ignore all .exe files
 *.exe
 
-test.cpp
+/test.cpp
